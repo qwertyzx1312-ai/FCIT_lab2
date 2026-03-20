@@ -20,7 +20,8 @@ int main() {
     case 2:
         break;
     case 3:
-        break;
+    	result = a * b;
+    	break;
     case 4:
         break;
   }
