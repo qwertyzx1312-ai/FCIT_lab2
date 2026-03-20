@@ -16,9 +16,11 @@ int main() {
 
   switch(op) {
     case 1:
-        break;
+    	result = a + b;
+    	break;
     case 2:
-        break;
+    	result = a - b;
+    	break;
     case 3:
         break;
     case 4:
