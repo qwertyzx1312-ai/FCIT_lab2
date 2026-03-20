@@ -22,7 +22,8 @@ int main() {
     	result = a - b;
     	break;
     case 3:
-        break;
+    	result = a * b;
+    	break;
     case 4:
         break;
   }
